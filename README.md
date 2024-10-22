@@ -7,6 +7,7 @@
 <body>
 
 <h1>Twitter Bot</h1>
+![Twitter-New-Logo-X-2023--1280x720](https://github.com/user-attachments/assets/8fd26387-cc5e-44f3-989b-4eaf016b7e31)
 
 <p>
   This project is a simple Twitter bot using <a href="https://www.tweepy.org/">Tweepy</a>, a Python library for accessing the Twitter API.
