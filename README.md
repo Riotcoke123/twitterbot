@@ -17,6 +17,13 @@
   <li>Posts tweets using Twitter API v2.</li>
   <li>Rate-limited to a maximum of 50 tweets per 24-hour period.</li>
   <li>Automatically resets the tweet count after 24 hours.</li>
+  <li>Reads tweets from a specified text file, sending each line as a tweet.</li>
+</ul>
+
+<h2>New Features</h2>
+<ul>
+  <li>Ability to read multiple tweets from a text file.</li>
+  <li>Each line in the text file is sent as a separate tweet.</li>
 </ul>
 
 <h2>Requirements</h2>
@@ -52,13 +59,19 @@ BEARER_TOKEN = 'your_bearer_token'
 ACCESS_TOKEN = 'your_access_token'
 ACCESS_TOKEN_SECRET = 'your_access_token_secret'</code></pre>
 
+  <li>Specify the path to your text file with tweets:</li>
+  <pre><code>file_path = 'tweets.txt'</code></pre>
+
   <li>Run the bot:</li>
   <pre><code>python your_script.py</code></pre>
 </ol>
 
 <h2>Usage</h2>
-<p>To send a tweet, use the <code>tweet</code> function in the script:</p>
-<pre><code>tweet("Hello, Twitter! This is a rate-limited bot speaking.")</code></pre>
+<p>To send tweets from a file, ensure your <code>tweets.txt</code> file is formatted with one tweet per line:</p>
+<pre><code>Hello, Twitter! This is my first tweet.
+Today is a great day to code!
+Check out my latest project.</code></pre>
+<p>The bot will automatically read and tweet each line in the file.</p>
 
 <h2>Configuration</h2>
 <p>You can change the maximum number of tweets per 24-hour period by modifying the <code>MAX_TWEETS_PER_DAY</code> variable in the script:</p>
