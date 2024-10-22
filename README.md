@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-![Twitter-New-Logo-X-2023--1280x720](https://github.com/user-attachments/assets/df3143d5-5656-4d12-a903-973d9174376a)
 
 <h1>Twitter Bot</h1>
 
