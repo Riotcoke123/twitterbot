@@ -1,0 +1,3 @@
+Hello, Twitter! This is my first tweet.
+Today is a great day to code!
+Check out my latest project.
