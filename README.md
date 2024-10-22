@@ -66,7 +66,7 @@ ACCESS_TOKEN_SECRET = 'your_access_token_secret'</code></pre>
 MAX_TWEETS_PER_DAY = 50</code></pre>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
+<p>This project is licensed under the GNU GENERAL PUBLIC LICENSE. See the <a href="LICENSE">LICENSE</a> file for more details.</p>
 
 <h2>Contributing</h2>
 <p>Contributions are welcome! Feel free to submit a pull request or open an issue for any bug reports or feature requests.</p>
