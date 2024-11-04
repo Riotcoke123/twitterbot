@@ -3,11 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Twitter Bot</title>
 </head>
 <body>
 
-<img src="https://github.com/user-attachments/assets/3fc3d34a-01ca-40fa-81fa-5bc6abb06829" alt="X logo" />
+<img src="https://github.com/user-attachments/assets/3fc3d34a-01ca-40fa-5bc6abb06829" alt="X logo" width="100" height="100" />
 
 <h1>Twitter Bot</h1>
 <p>
