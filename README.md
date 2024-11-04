@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
+![X_logo](https://github.com/user-attachments/assets/3fc3d34a-01ca-40fa-81fa-5bc6abb06829)
 
 <h1>Twitter Bot</h1>
 <p>
