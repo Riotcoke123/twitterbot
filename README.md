@@ -3,9 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Twitter Bot</title>
 </head>
 <body>
-![X_logo](https://github.com/user-attachments/assets/3fc3d34a-01ca-40fa-81fa-5bc6abb06829)
+
+<img src="https://github.com/user-attachments/assets/3fc3d34a-01ca-40fa-81fa-5bc6abb06829" alt="X logo" />
 
 <h1>Twitter Bot</h1>
 <p>
@@ -96,3 +98,4 @@ MAX_TWEETS_PER_DAY = 50</code></pre>
 
 </body>
 </html>
+
