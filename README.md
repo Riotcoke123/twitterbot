@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<img src="https://github.com/user-attachments/assets/3fc3d34a-01ca-40fa-5bc6abb06829" alt="X logo" width="100" height="100" />
+<img src="https://github.com/user-attachments/assets/3fc3d34a-01ca-40fa-5bc6abb06829" alt="X logo" width="200" height="200" />
 
 <h1>Twitter Bot</h1>
 <p>
