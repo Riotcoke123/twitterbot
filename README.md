@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-![X_logo](https://github.com/user-attachments/assets/26d061f4-daf3-40a7-b014-633cea139d06)
 
 <img src="https://github.com/user-attachments/assets/26d061f4-daf3-40a7-b014-633cea139d06" alt="X logo" width="200" height="200" />
 
